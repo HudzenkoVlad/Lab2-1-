@@ -1,4 +1,5 @@
 x = 1
 y = 2
 z = 3
-print(x, y, z)
+a = 4
+print(x, y, z, a)
